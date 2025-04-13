@@ -1,0 +1,50 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables and secrets
+.env
+*.env
+
+# Package manager files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+wheels/
+
+# PyInstaller artifacts
+*.spec
+
+# Poetry
+poetry.lock
+.poetry/
+
+# VS Code settings
+.vscode/
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Lock files
+uv.lock
+
+# Workspace folders
+workspace/
