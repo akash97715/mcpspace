@@ -1,6 +1,6 @@
 #  MCP Terminal Server using Gemini Client
 
-Welcome to the **MCP (Multi-Command Processor)** Terminal Server powered by the Gemini client!  
+Welcome to the **MCP (Model context protocol)** Terminal Server powered by the Gemini client!  
 This project creates an intelligent terminal assistant that can execute commands on your behalf and continue interactive conversations — all from your terminal.
 
 ---
